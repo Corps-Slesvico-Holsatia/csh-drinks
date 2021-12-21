@@ -1,2 +1,2 @@
 # csh-drinks
-Bevarages accounting
+Beverages accounting
